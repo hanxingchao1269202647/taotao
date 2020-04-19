@@ -14,6 +14,8 @@ public class C {
 		System.out.println("xintinjia");
 		System.out.println("xintinjia");
 		// dddd
+		list.add("d");
+		list.add("sd");
 	}
 
 }
