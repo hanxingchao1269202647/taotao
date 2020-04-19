@@ -12,8 +12,8 @@ public class C {
 		String a = "dfdf";
 		List list = new ArrayList<>();
 		System.out.println("xintinjia");
-		System.out.println("xintinjia");
 		// dddd
+		System.out.println("cdcdcddcd");
 	}
 
 }
