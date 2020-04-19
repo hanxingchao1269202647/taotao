@@ -11,6 +11,8 @@ public class C {
 		System.out.println("dsssd");
 		String a = "dfdf";
 		List list = new ArrayList<>();
+		System.out.println("xintinjia");
+		System.out.println("xintinjia");
 		// dddd
 	}
 
