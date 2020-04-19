@@ -15,6 +15,9 @@ public class C {
 		// dddd
 		System.out.println("cdcdcddcd");
 		list.add("d");
-		list.add("sd");	}
+		list.add("sd");	
+	       System.out.println("cdcd才是大多数cd");
+		list.add("大幅度发大水");
+	}
 
 }
