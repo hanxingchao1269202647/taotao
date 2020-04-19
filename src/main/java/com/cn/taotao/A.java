@@ -13,7 +13,7 @@ public class A {
 		System.out.println(a);
 		Long b = new Date().getTime();
 		System.out.println(b);
-
+		System.out.println("skk");
 		LocalDate localDate = LocalDate.now();
 		Timestamp timestamp = Timestamp.valueOf(LocalDateTime.now());
 		System.out.println(timestamp.getTime());
