@@ -18,6 +18,7 @@ public class C {
 		list.add("sd");	
 	       System.out.println("cdcd才是大多数cd");
 		list.add("大幅度发大水");
+		// dddd打发大水发斯蒂芬打算
 	}
 
 }
