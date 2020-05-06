@@ -9,6 +9,7 @@ public class B {
 		
 		System.out.println("dsda2323dfdfd");
 		System.out.println("dsdadfdfd");
+		System.out.println("341324132分为非");
 	}
 
 }

@@ -8,6 +8,8 @@ public class C {
 
 	public static void main(String[] args) {
 		System.out.println("ddd");
+System.out.println("ddd");
+
 		System.out.println("dsssd");
 		String a = "dfdf";
 		List list = new ArrayList<>();
@@ -16,9 +18,9 @@ public class C {
 		System.out.println("cdcdcddcd");
 		list.add("d");
 		list.add("sd");	
-	       System.out.println("cdcd鎵嶆槸澶у鏁癱d");
-		list.add("澶у箙搴﹀彂澶ф按");
-		// dddd鎵撳彂澶ф按鍙戞柉钂傝姮鎵撶畻
+	       System.out.println("cdcd才是大多数cd");
+		list.add("大幅度发大水");
+		// dddd打发大水发斯蒂芬打算
 	}
 
 }
